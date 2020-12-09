@@ -3,10 +3,11 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 
 **Disclaimer:** Please read terms&conditions and licenses/attribution requirements of the tools carefully. Also, don't use them with confidential/real customer or user data.
 
-## File Size Modification
+## File Transformation & Size Modification
 - Reduse file sizes of JPEG, PNG, SVG, GIF and WEBP files with [Compressor](https://compressor.io/)
 - Reduse file sizes of MP4, AVI, MPEG, MOV files with [Videosmaller](http://www.videosmaller.com)
 - Optimize GIFs online with [ezgif](https://ezgif.com/optimize)
+- Convert various kinds of files into one another via [cloudconvert](https://cloudconvert.com/)
 
 ## Icons
 - Quite unique icons, featuring an online SVG editor: [game-icons.net](https://game-icons.net/)
