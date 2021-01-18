@@ -49,6 +49,9 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - [bgjar.com](https://bgjar.com/)
 - [magicpattern.design/tools/css-backgrounds](https://www.magicpattern.design/tools/css-backgrounds)
 
+## Choosing fonts
+- Generate matching font sets via [Fontjoy](https://fontjoy.com/)
+
 ## UI Component Generators
 - Generate hero sections with the [hero generator](https://hero-generator.netlify.app/)
 - Favicons in whichever format and size you need via [realfavicongenerator.net](https://realfavicongenerator.net/)
@@ -67,7 +70,6 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Perhaps your first stop: [Google's Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - Check your website for "best practices,
 performance and SEO" on [geekflare's speed test](https://tools.geekflare.com/report/speed-test/)
-
 
 ## Meta
 - Didn't find anything useful? Head over to [tiny-helpers.dev](https://tiny-helpers.dev/)
