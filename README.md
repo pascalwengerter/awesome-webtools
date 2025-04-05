@@ -74,3 +74,6 @@ performance and SEO" on [geekflare's speed test](https://tools.geekflare.com/rep
 ## Meta
 - Didn't find anything useful? Head over to [tiny-helpers.dev](https://tiny-helpers.dev/)
 - Need an OSS alternative for one of your favorite apps? Find it on [opensource.builders](https://opensource.builders/)
+
+## Code Formatting
+- Clean and beautify HTML code with [ConvertLoom HTML Formatter](https://www.convertloom.com/formatter/html)
