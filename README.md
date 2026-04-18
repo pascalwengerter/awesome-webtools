@@ -66,6 +66,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Generate a HTTP response to test (frontend) code with [httpstat.us](https://httpstat.us/)
 - It "lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats" - [mockaroo](https://www.mockaroo.com/)
 
+
 ## Website Speed Testing
 - Perhaps your first stop: [Google's Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - Check your website for "best practices,
@@ -74,3 +75,6 @@ performance and SEO" on [geekflare's speed test](https://tools.geekflare.com/rep
 ## Meta
 - Didn't find anything useful? Head over to [tiny-helpers.dev](https://tiny-helpers.dev/)
 - Need an OSS alternative for one of your favorite apps? Find it on [opensource.builders](https://opensource.builders/)
+
+## QR Code Tools
+- [TryQRCode](https://tryqrcode.com) - Free, no-signup QR code generator supporting 16+ types (URL, vCard, WiFi, WhatsApp, Crypto, PayPal, UPI, and more) with full customization — colors, logos, shapes — and export in PNG, SVG, or PDF.
