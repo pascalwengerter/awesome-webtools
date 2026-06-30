@@ -28,6 +28,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 ### Code Formatting (JSON, SQL, CSV, YAML)
 - CSV and SQL to JSON, JSON validator & beautifier: [csvjson](https://www.csvjson.com/)
 - Validating, beautifying, converting and a ton more on [codebeautify.org](https://codebeautify.org/)
+- Free all-in-one toolkit: JSON formatter, JWT decoder, regex tester, cron parser, invoice generator, EMI calculator, and 50+ more tools. No login required. [DConverter](https://www.dconverter.org)
 
 ### Code Formatting (Time)
 - Ruby Date/Time Formatting via [foragoodstrftime.com](https://www.foragoodstrftime.com/)
