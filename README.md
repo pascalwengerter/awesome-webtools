@@ -8,6 +8,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Reduse file sizes of MP4, AVI, MPEG, MOV files with [Videosmaller](http://www.videosmaller.com)
 - Optimize GIFs online with [ezgif](https://ezgif.com/optimize)
 - Convert various kinds of files into one another via [cloudconvert](https://cloudconvert.com/)
+- Crop, Resize and Convert image without uploading to server. [100% client-side Image Processing](https://ic2share.com/image-processor)
 
 ## Icons
 - Quite unique icons, featuring an online SVG editor: [game-icons.net](https://game-icons.net/)
