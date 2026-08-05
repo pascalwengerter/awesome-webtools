@@ -14,6 +14,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - "A simple, consistent open-source icon set" - [Mono Icons](https://icons.mono.company/)
 - \>30.000 free PNG icons on [streamlineicons](http://www.streamlineicons.com/)
 - Allegedly the "largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats" - [Flaticon](https://www.flaticon.com/)
+- Create favicons from text, images, emojis, or gradients with instant browser preview, exporting to multi-size ICO, PNG (16×16 to 48×48), WebP, or JPG with copy-ready HTML code - [Favicon](https://thedevtools.org/favicon)
 
 ## Stock photos
 - Arguably the top dog: [Pexels](https://www.pexels.com)
