@@ -28,6 +28,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 ### Code Formatting (JSON, SQL, CSV, YAML)
 - CSV and SQL to JSON, JSON validator & beautifier: [csvjson](https://www.csvjson.com/)
 - Validating, beautifying, converting and a ton more on [codebeautify.org](https://codebeautify.org/)
+- Format, validate, and auto-repair invalid JSON (trailing commas, single quotes, unquoted keys) via [QuickTiny JSON Formatter](https://quicktinyv2.vercel.app/json-formatter), fully client-side
 
 ### Code Formatting (Time)
 - Ruby Date/Time Formatting via [foragoodstrftime.com](https://www.foragoodstrftime.com/)
