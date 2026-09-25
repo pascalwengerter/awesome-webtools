@@ -28,6 +28,9 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 ### Code Formatting (JSON, SQL, CSV, YAML)
 - CSV and SQL to JSON, JSON validator & beautifier: [csvjson](https://www.csvjson.com/)
 - Validating, beautifying, converting and a ton more on [codebeautify.org](https://codebeautify.org/)
+- Format, validate and beautify JSON online with [ToolHub JSON Formatter](https://trytoolhub.net/tools/json-formatter)
+- Test and debug regular expressions online with [ToolHub Regex Tester](https://trytoolhub.net/tools/regex-tester)
+- Encode and decode Base64 strings online with [ToolHub Base64 Encoder / Decoder](https://trytoolhub.net/tools/base64)
 
 ### Code Formatting (Time)
 - Ruby Date/Time Formatting via [foragoodstrftime.com](https://www.foragoodstrftime.com/)
