@@ -5,9 +5,11 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 
 ## File Transformation & Size Modification
 - Reduse file sizes of JPEG, PNG, SVG, GIF and WEBP files with [Compressor](https://compressor.io/)
+- Try basic image compression without sign-in at [AI Lab](https://ailab.packscena.com/), a Chinese utility hub; complete tools require sign-in and points.
 - Reduse file sizes of MP4, AVI, MPEG, MOV files with [Videosmaller](http://www.videosmaller.com)
 - Optimize GIFs online with [ezgif](https://ezgif.com/optimize)
 - Convert various kinds of files into one another via [cloudconvert](https://cloudconvert.com/)
+- Adjust food-photo lighting, color and crop and export JPEG with [DishVivid](https://dishvivid.com/studio); manual edits need no account, optional AI needs sign-in and available edits.
 
 ## Icons
 - Quite unique icons, featuring an online SVG editor: [game-icons.net](https://game-icons.net/)
@@ -19,6 +21,11 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Arguably the top dog: [Pexels](https://www.pexels.com)
 - A bit more experimental: [Gratisography](https://gratisography.com)
 - Focusing on tech and software topics: [Startupstockphotos](https://startupstockphotos.com/)
+
+## AI image ideation
+- Create nail-art reference images with [NailMoodLab](https://nailmoodlab.com/); AI actions require an account and allowance (Free plan: 5 actions/month). Treat previews as design references, not guaranteed manicure results.
+- Explore product-photo scenes with [PackScena](https://packscena.com/); the free invitation trial needs a workspace invitation code and remaining allowance. Check generated product details against the original photograph.
+- Preview hairstyles, outfits and portrait settings with [LookScene](https://lookscene.packscena.com/); the free invitation trial requires an account and credits. AI illustrations do not guarantee likeness, garment fit or a real-world styling result.
 
 ## All things code
 
@@ -41,6 +48,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Gradient color suggestions on [eggradients](https://www.eggradients.com/)
 - Create tints and shades for `#hex` color codes via  [maketintsandshades.com](https://maketintsandshades.com/)
 - Generate neumorphism effects via [neumorphism.io](https://neumorphism.io/)
+- Explore random colors, HEX/RGB labels and brightness controls with [LogoMovo](https://logomovo.com/random-color-generator); this manual tool needs no account or AI plan request.
 
 ## SVG Backgrounds
 - [repper.app](https://repper.app/design/)
@@ -65,6 +73,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Reference of HTML and keyboard shortcuts for special characters via [key-shortcut.com](https://www.key-shortcut.com/en/all-html-entities/all-entities)
 - Generate a HTTP response to test (frontend) code with [httpstat.us](https://httpstat.us/)
 - It "lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats" - [mockaroo](https://www.mockaroo.com/)
+- Structure an English or Chinese resume with local editing, JSON backup and a PDF workflow in [ResumePlot](https://resumeplot.com/en/builder); core editing is free, with 3 PDF exports/month on the Free tier. Optional AI requires sign-in and an available allowance.
 
 ## Website Speed Testing
 - Perhaps your first stop: [Google's Lighthouse](https://developers.google.com/web/tools/lighthouse)
@@ -74,3 +83,4 @@ performance and SEO" on [geekflare's speed test](https://tools.geekflare.com/rep
 ## Meta
 - Didn't find anything useful? Head over to [tiny-helpers.dev](https://tiny-helpers.dev/)
 - Need an OSS alternative for one of your favorite apps? Find it on [opensource.builders](https://opensource.builders/)
+- Compare AI subscription offer specifications, delivery methods and dated sources with [SubAtlas](https://subatlas.packscena.com/); this Chinese reference includes reseller-supplied offers and historical or unverified prices, not official-provider guarantees or a subscription checkout.
