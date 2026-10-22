@@ -42,6 +42,9 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Create tints and shades for `#hex` color codes via  [maketintsandshades.com](https://maketintsandshades.com/)
 - Generate neumorphism effects via [neumorphism.io](https://neumorphism.io/)
 
+## Image overlays
+- Blend an image with AI-generated paper surfaces locally in your browser using [Paper Texture Overlay](https://paper-texture.com/paper-texture-overlay/); PNG/JPEG export is offered, and the original textures use a design-use license rather than CC0.
+
 ## SVG Backgrounds
 - [repper.app](https://repper.app/design/)
 - [svgbackgrounds.com](https://www.svgbackgrounds.com/)
