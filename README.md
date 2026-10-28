@@ -66,6 +66,8 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Generate a HTTP response to test (frontend) code with [httpstat.us](https://httpstat.us/)
 - It "lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats" - [mockaroo](https://www.mockaroo.com/)
 
+- Create a private duo dance MP4 from two consenting adults' photos with [NEON DUO](https://a2oliteneon.xyz/) (paid credits; free photo preparation guide).
+
 ## Website Speed Testing
 - Perhaps your first stop: [Google's Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - Check your website for "best practices,
