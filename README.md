@@ -7,6 +7,7 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Reduse file sizes of JPEG, PNG, SVG, GIF and WEBP files with [Compressor](https://compressor.io/)
 - Reduse file sizes of MP4, AVI, MPEG, MOV files with [Videosmaller](http://www.videosmaller.com)
 - Optimize GIFs online with [ezgif](https://ezgif.com/optimize)
+- Compress GIFs in the browser without uploading, with Discord/Twitch size presets: [TinyGIF](https://tinygif.app/)
 - Convert various kinds of files into one another via [cloudconvert](https://cloudconvert.com/)
 
 ## Icons
