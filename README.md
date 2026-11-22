@@ -9,6 +9,8 @@ A collection of neat and small helpers for creating stuff online. Handle with ca
 - Optimize GIFs online with [ezgif](https://ezgif.com/optimize)
 - Convert various kinds of files into one another via [cloudconvert](https://cloudconvert.com/)
 
+- Convert images to pixel art and upscale pixel graphics locally in the browser with [PixelArtHive](https://pixelarthive.com/)
+
 ## Icons
 - Quite unique icons, featuring an online SVG editor: [game-icons.net](https://game-icons.net/)
 - "A simple, consistent open-source icon set" - [Mono Icons](https://icons.mono.company/)
